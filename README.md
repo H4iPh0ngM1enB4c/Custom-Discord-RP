@@ -1,2 +1,2 @@
-# Custom-Discord-RP
-Discord Custom RP
+# <img src=https://www.customrp.xyz/assets/logo.png](https://scontent.fhan5-11.fna.fbcdn.net/v/t1.15752-9/462578569_623045450394555_7664245515274354586_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeHgEGJQ9ThNYmUx-hcryGPayFMCCIL39tfIUwIIgvf211ABfD8Cd60iWdZfhS3RIuk89xcOab_W-V48t4EO69GY&_nc_ohc=ivfSI5mXjNQQ7kNvgGRtMty&_nc_zt=23&_nc_ht=scontent.fhan5-11.fna&oh=03_Q7cD1gEoiqFmUaS7x0fZ535pgdGjYa6qNs0kT72PbuvHgVKflg&oe=679845C7 style="height:1em;"/> Custom Discord-RP
+![App Screenshot](https://www.customrp.xyz/assets/screenshot.png)
