@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Discord Rich Presence</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Discord Rich Presence</h1>
+        <form id="presence-form">
+            <!-- Phần 1 -->
+            <div class="form-section">
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="clientId">Client ID:</label>
+                        <input type="text" id="clientId" name="clientId" placeholder="Enter Client ID" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="details">Details:</label>
+                        <input type="text" id="details" name="details" placeholder="Enter details">
+                    </div>
+                    <div class="form-group">
+                        <label for="state">State:</label>
+                        <input type="text" id="state" name="state" placeholder="Enter state">
+                    </div>
+                </div>
+            </div>
+
+            <!-- Phần 2 -->
+            <div class="form-section">
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="largeImageKey">Large Image Key:</label>
+                        <input type="text" id="largeImageKey" name="largeImageKey" placeholder="Enter large image key">
+                    </div>
+                    <div class="form-group">
+                        <label for="largeImageText">Large Image Text:</label>
+                        <input type="text" id="largeImageText" name="largeImageText" placeholder="Enter large image text">
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="smallImageKey">Small Image Key:</label>
+                        <input type="text" id="smallImageKey" name="smallImageKey" placeholder="Enter small image key">
+                    </div>
+                    <div class="form-group">
+                        <label for="smallImageText">Small Image Text:</label>
+                        <input type="text" id="smallImageText" name="smallImageText" placeholder="Enter small image text">
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-section">
+                <button type="submit">Update Presence</button>
+            </div>
+        </form>
+        <footer>
+            <p>&copy; 2024 S1ow.dev Aka H4iPh0ngM1enB4c. All rights reserved.</p>
+        </footer>
+    </div>
+    <script src="renderer.js"></script>
+</body>
+</html>
